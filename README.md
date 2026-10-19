@@ -4,7 +4,9 @@
 
 ## 在线使用
 
-仓库启用 GitHub Pages 后，直接访问项目主页即可运行。页面为单文件 HTML，无需登录、安装插件或额外依赖。
+**演示地址：** https://zhbi-hub.github.io/sampling-demo/
+
+页面为单文件 HTML，无需登录、安装插件或额外依赖。
 
 ## 主要功能
 
